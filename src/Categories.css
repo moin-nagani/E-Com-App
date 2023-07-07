@@ -1,0 +1,16 @@
+.tab-body {
+    margin-left: 20px;
+    padding: 0;
+    overflow-x: hidden;
+    color: #fff;
+    font-family: "Figtree", sans-serif;
+
+}
+
+.nav-link {
+    color: inherit !important;
+}
+
+.button{
+        display: flex !important;
+}
